@@ -3,8 +3,9 @@ title: Nara Virtual AI Telegram Bot
 emoji: 🌸
 colorFrom: pink
 colorTo: purple
-sdk: docker
-app_port: 8080
+sdk: gradio
+sdk_version: 4.19.0
+app_file: app.py
 pinned: false
 ---
 
