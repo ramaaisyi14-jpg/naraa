@@ -1,3 +1,13 @@
+---
+title: Nara Virtual AI Telegram Bot
+emoji: 🌸
+colorFrom: pink
+colorTo: purple
+sdk: docker
+app_port: 8080
+pinned: false
+---
+
 # 🌸 Nara - VirtualMate AI Telegram Bot (24/7 Gratis)
 
 **Nara** adalah bot pacar virtual AI di Telegram yang cerdas, perhatian, ramah, dan agak random. Dibuat berbasis **Google Gemini 2.0 Flash**, **Supabase Cloud**, **edge-tts (Voice Note)**, dan **Pollinations.ai (PAP Selfie)**.
